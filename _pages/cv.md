@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD student in Traffic and Transportation Engineering, Central South University, 2021/09--present
+* Master degree in Transportation Planning and Management, Sun Yat-Sen University, 2016/09--2019/06
+* Bachelor degree in Traffic Engineering, Guangzhou University, 2012/09--2016/06
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019/07--2021/07: Traffic Planing Engineer
+  * Guangzhou Traffic Planning Research Institute
+  * Duties included: Urban Traffic Planning
 
 Publications
 ======
@@ -42,18 +27,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Honours and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Outstanding Poster Presentation Award by The Executive Committee of WTC, 2023 
+* Scholarship for Doctoral Students by Central South University, 2021--present
+* Outstanding Employee Award by Guangzhou Traffic Planning Research Institute, 2019--2021 
+* Scholarship for Master Students by Sun Yat-Sen University, 2016--2019
