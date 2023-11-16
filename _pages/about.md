@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in School of Traffic and Transportation Engineering, Central South University, and my supervisors are Prof. [Helai Huang](https://faculty.csu.edu.cn/huanghelai/zh_CN/index.htm) and Associate Prof. [Ye li](https://faculty.csu.edu.cn/liye/zh_CN/index.htm). Feel free to contact me (jielingkim@gmail.com) if you are interested in my work.
+I am a Ph.D. Candidate in School of Traffic and Transportation Engineering at Central South University, and my supervisors are Prof. [Helai Huang](https://faculty.csu.edu.cn/huanghelai/zh_CN/index.htm) and Associate Prof. [Ye li](https://faculty.csu.edu.cn/liye/zh_CN/index.htm). Feel free to contact me (jielingkim@gmail.com) if you are interested in my work.
 
 Research Interests
 ======
