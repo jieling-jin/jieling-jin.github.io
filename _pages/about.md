@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jieling Jin, a Ph.D. candidate of CSU"
+title: "Jieling Jin, a Ph.D. candidate at CSU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
