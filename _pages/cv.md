@@ -29,6 +29,7 @@ Publications
   
 Honours and Awards
 ======
+* Second Prize of Science and Technology Progress Award by China Communications and Transportation Association, 2024
 * Outstanding Poster Presentation Award by The Executive Committee of WTC, 2023 
 * Scholarship for Doctoral Students by Central South University, 2021--present
 * Outstanding Employee Award by Guangzhou Traffic Planning Research Institute, 2019--2021 
