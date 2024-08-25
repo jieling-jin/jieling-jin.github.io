@@ -7,7 +7,7 @@ excerpt: '-- Developed a novel approach using police-reported historical crash d
 -- Established a surrogate model (SM) to expedite the process of scenario samples generation and evaluation, addressing the computational challenges associated with training deep generative models.'
 date: 2024-08-25
 venue: 'Accident Analysis & Prevention'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0001457524001155'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0001457524002331'
 citation: 'Li, Y., Yang, Z., Jin, J., & Wu, D. (2024). Exploring master scenarios for autonomous driving tests from police-reported historical crash data using an adaptive search sampling framework. Accident Analysis & Prevention, 205, 107688.'
 ---
 
