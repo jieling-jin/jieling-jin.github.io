@@ -2,11 +2,8 @@
 title: "Exploring master scenarios for autonomous driving tests from police-reported historical crash data using an adaptive search sampling framework
 permalink: /publication/2024-08-25-paper-title-number-7
 excerpt: '-- Developed a novel approach using police-reported historical crash data to explore fundamental functional scenarios crucial for testing autonomous driving systems.
-
 -- Introduced the concept of master scenario samples as representative subsets of historical crash data. Using deep generative models to synthesize diverse derived scenarios samples.
-
 -- Proposed an adaptive search sampling method that iteratively refines sampling strategies based on the Similarity Score, ensuring comprehensive coverage of crash scenarios.
-
 -- Established a surrogate model (SM) to expedite the process of scenario samples generation and evaluation, addressing the computational challenges associated with training deep generative models.'
 date: 2024-08-25
 venue: 'Accident Analysis & Prevention'
