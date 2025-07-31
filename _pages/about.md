@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jieling Jin, a Ph.D. candidate at CSU"
+title: "Jieling Jin, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in School of Traffic and Transportation Engineering at Central South University, and my supervisors are Prof. [Helai Huang](https://faculty.csu.edu.cn/huanghelai/zh_CN/index.htm) and Prof. [Ye li](https://faculty.csu.edu.cn/liye/zh_CN/index.htm). Feel free to contact me (jielingkim@gmail.com) if you are interested in my work.
+I received my Ph.D. degree from the School of Traffic and Transportation Engineering at Central South University, and my supervisors are Prof. [Helai Huang](https://faculty.csu.edu.cn/huanghelai/zh_CN/index.htm) and Prof. [Ye li](https://faculty.csu.edu.cn/liye/zh_CN/index.htm). Feel free to contact me (jielingkim@gmail.com) if you are interested in my work.
 
 Research Interests
 ======
-- Traffic safety analysis
 - Traffic safety Spatio-temporal modeling
-- Proactive traffic control
+- Proactive traffic control for CAVs
 
 
 Current Research Topics
@@ -25,6 +24,8 @@ Current Research Topics
 
 Selected News
 ======
+- June 2025, I received Ph.D. degree in transportation engineering from Central South University.
+- March 2025: Our paper "A Connected-Automated Vehicles-Based Dynamic Speed Limit Control Strategy for Improving Safety and Efficiency of Freeway Tunnels: An Augmented Lagrange Safe Reinforcement Learning Framework." (authors: ***Jin J***, Li Y, Huang H.) was accepted by [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/abstract/document/10934054).
 - January 2025: Our paper "Collision causal discovery and real-time prediction of freeway tunnels: A novel dual-task approach." (authors: ***Jin J***, Huang H, Li Y.) was accepted by [Tunnelling and Underground Space Technology](https://www.sciencedirect.com/journal/tunnelling-and-underground-space-technology).
 - December 2024: Our paper "Variable speed limit control strategy for freeway tunnels based on a multi-objective deep reinforcement learning framework with safety perception." (authors: ***Jin J***, Huang H, Li Y.) was accepted by [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 - August 2024: Our paper "Exploring master scenarios for autonomous driving tests from police-reported historical crash data using an adaptive search sampling framework." (authors: Li Y, Yang Z, **Jin J***, Wu D.) was accepted by [Accident Analysis & Prevention](https://www.sciencedirect.com/journal/accident-analysis-and-prevention).
